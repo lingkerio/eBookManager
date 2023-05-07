@@ -1,3 +1,0 @@
-D:\Scoop\apps\cmake\3.26.3\bin\cmake.exe -E rm -f CMakeFiles\toy.dir/objects.a
-C:\msys64\mingw64\bin\ar.exe qc CMakeFiles\toy.dir/objects.a @CMakeFiles\toy.dir\objects1.rsp
-C:\msys64\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\toy.dir/objects.a -Wl,--no-whole-archive -o toy.exe -Wl,--out-implib,libtoy.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\toy.dir\linkLibs.rsp
