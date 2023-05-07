@@ -1,0 +1,28 @@
+Execute START   Time is : Fri May 05 23:58:58 2023
+
+Execute FolderPathCheck   Time is : Fri May 05 23:58:58 2023
+
+Execute HELP   Time is : Fri May 05 23:58:58 2023
+
+Execute END   Time is : Fri May 05 23:58:58 2023
+
+Execute START   Time is : Fri May 05 23:59:06 2023
+
+Execute FolderPathCheck   Time is : Fri May 05 23:59:06 2023
+
+Execute FilePathCheck   Time is : Fri May 05 23:59:11 2023
+
+Execute DELETE   Time is : Fri May 05 23:59:11 2023
+
+Execute END   Time is : Fri May 05 23:59:11 2023
+
+Execute START   Time is : Fri May 05 23:59:18 2023
+
+Execute FolderPathCheck   Time is : Fri May 05 23:59:18 2023
+
+Execute FilePathCheck   Time is : Fri May 05 23:59:21 2023
+
+Execute DEEP_DELETE   Time is : Fri May 05 23:59:21 2023
+
+Execute END   Time is : Fri May 05 23:59:21 2023
+

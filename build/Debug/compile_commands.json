@@ -1,0 +1,32 @@
+[
+{
+  "directory": "D:/vscode/C++MinGW/build/Debug",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/toy.dir/includes_CXX.rsp -g -o CMakeFiles\\toy.dir\\main.cpp.obj -c D:\\vscode\\C++MinGW\\src\\main.cpp",
+  "file": "D:/vscode/C++MinGW/src/main.cpp",
+  "output": "CMakeFiles/toy.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/vscode/C++MinGW/build/Debug",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/toy.dir/includes_CXX.rsp -g -o CMakeFiles\\toy.dir\\Book.cpp.obj -c D:\\vscode\\C++MinGW\\src\\Book.cpp",
+  "file": "D:/vscode/C++MinGW/src/Book.cpp",
+  "output": "CMakeFiles/toy.dir/Book.cpp.obj"
+},
+{
+  "directory": "D:/vscode/C++MinGW/build/Debug",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/toy.dir/includes_CXX.rsp -g -o CMakeFiles\\toy.dir\\Manage.cpp.obj -c D:\\vscode\\C++MinGW\\src\\Manage.cpp",
+  "file": "D:/vscode/C++MinGW/src/Manage.cpp",
+  "output": "CMakeFiles/toy.dir/Manage.cpp.obj"
+},
+{
+  "directory": "D:/vscode/C++MinGW/build/Debug",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/toy.dir/includes_CXX.rsp -g -o CMakeFiles\\toy.dir\\Server.cpp.obj -c D:\\vscode\\C++MinGW\\src\\Server.cpp",
+  "file": "D:/vscode/C++MinGW/src/Server.cpp",
+  "output": "CMakeFiles/toy.dir/Server.cpp.obj"
+},
+{
+  "directory": "D:/vscode/C++MinGW/build/Debug",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/toy.dir/includes_CXX.rsp -g -o CMakeFiles\\toy.dir\\Download.cpp.obj -c D:\\vscode\\C++MinGW\\src\\Download.cpp",
+  "file": "D:/vscode/C++MinGW/src/Download.cpp",
+  "output": "CMakeFiles/toy.dir/Download.cpp.obj"
+}
+]
